@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>개발자 2가 같은파일 NewFile-1 타이틀 수정</title>
+<title>개발자 2가 같은 라인 파일 NewFile-1 타이틀 수정</title>
 
 	<script>
 		alert("개발자 2가 NewFile-1.jsp 파일 두번째 수정");
